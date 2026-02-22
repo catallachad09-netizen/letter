@@ -41,7 +41,11 @@ I want to be the person who makes you happy.
 
 I want to be the person who makes you feel safe.
 
-I want to be the person who makes you feel loved.`;
+I want to be the person who makes you feel loved.
+
+I want to be your first and last, Rich. 
+
+I'm seriously asking for another chance. I want to be with you, Rich. I want to be with you more than anything else in this world.`;
 
 pages.push(page2Message, page3Message, page4Message);
 
